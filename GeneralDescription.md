@@ -26,3 +26,4 @@ wich will turn green when the motor is ON and red when the motor is OFF.
 The image of the zootrope can be changed (Look in internet!!). 
 If the motor is too slow or too fast, just change the 16 in the code (higher number if you need less speed, or lower if
 you need more speed).
+On the 3D files you have a box to put the circuit inside. There are holes top so the motor, the buttons and the LED are not hidden inside (No photo of this could be uploaded as no 3D printer is available for the moment).
